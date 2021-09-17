@@ -2,6 +2,9 @@ body{
   margin: 0;
   text-align: center;
 }
+.head{
+  background-color: #B7E9F7;
+}
 .cloud1{
   position: relative;
   margin: 80px auto 20px 500px;
